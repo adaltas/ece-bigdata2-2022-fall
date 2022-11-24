@@ -10,10 +10,6 @@ Experimentation requires bookkeeping.
 - How it was done
 - What else there is to be done
 
-## Roadmap
-
-![Roadmap](./assets/roadmap.png)
-
 ## What is experiment tracking?
 
 - During model development, we test many different things:
