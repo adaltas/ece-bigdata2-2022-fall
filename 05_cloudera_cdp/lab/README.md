@@ -96,7 +96,7 @@ In this step you will import the NiFi flow that has been configured to ingest th
 7. **Parameters** tab, set:
    - api_alpha_key: `<api_alpha_key>`
    - s3_path: `stocks`
-   - stock_list: `default`
+   - stock_list: leave it as is
    - workload_password: `<workload_password>`
    - workload_username: `<username>`
 
