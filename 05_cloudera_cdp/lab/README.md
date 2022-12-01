@@ -231,7 +231,7 @@ From the [CDP Portal](https://console.cdp.cloudera.com/#/)
      - Main Class: `com.cloudera.cde.stocks.StockProcessIceberg`
      - Arguments:
        - `<username>_stocks`
-       - `s3a://cdp-260785/`
+       - `s3a://cdp-albertk-8531/`
        - `stocks`
        - `<username>`
 
