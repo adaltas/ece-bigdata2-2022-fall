@@ -401,3 +401,11 @@ Go back to the **Data Visualizations** and explore the different options availab
 ![](./assets/dwh_dataviz_dashboard_06_visuals.png)
 
 ![](./assets/dwh_dataviz_dashboard_07_visuals.png)
+
+## Data transformations with NiFi
+
+Here is the link to the code used for .jar file, taht you uploaded in your data flow: https://github.com/carrossoni/clouderacommunity/tree/main/cdp_stock_iceberg/cde_code
+
+- What does it do?
+- Can you re-write it in PySpark?
+- Are there any constraints, is there something you need to be careful about?
