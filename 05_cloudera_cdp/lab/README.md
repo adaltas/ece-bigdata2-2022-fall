@@ -21,7 +21,9 @@ Hands-on lab to use a CDP Public Cloud environment and Iceberg table format to i
 
 ## Step 2: Access CDP Public Cloud Portal
 
-1. Please login [here](https://54.75.97.16:8443/auth/realms/tobias-lab-dev/protocol/saml/clients/cdp-sso) with the `<username>` and password provided by the instructor
+1. Please login [here](# CDP Lab Credentials
+
+[Login page](https://3.250.32.46:8443/auth/realms/adaltas-cdp-lab/protocol/saml/clients/cdp-sso) with the `<username>` and password provided by the instructor
 
     ![](./assets/login_page.png)
 
