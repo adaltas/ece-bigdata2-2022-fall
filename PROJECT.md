@@ -4,7 +4,7 @@
 
 The project has to focus on **distributed systems**. It can either be:
 
-1. **Answers to the fllowing questions** regarding the labs Cloudera Data Platform and MinIO-Trino. The questions B and C apply only to Cloudera lab, while the questions A and D-F to both labs.
+1. **Answers to the fllowing questions** regarding the labs Cloudera Data Platform and MinIO-Trino. The question B applies only to Cloudera lab, while the questions A and C-F to both labs.
   
   A) Draw a schema of the architecture ([schema example](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/images/enterprise-bi-adf.png)).      
   B) What was in .json and .jar files that you imported?   
@@ -20,7 +20,7 @@ The project has to focus on **distributed systems**. It can either be:
   - The important thing here is to **explain why you picked a particular technology**, what other technologies were considered
   - **Example**: Uber wants to track all its drivers in real-time in order to predict the areas most likely to be in need for drivers (what technologies will be used to: transport data, store data, analyse data, present results, etc.)
   
-Expected format for the report: PDF or Markdown.
+Expected format for the report: PDF
 
 ## Due date
 
