@@ -7,7 +7,6 @@ https://www.adaltas.com/en/careers/
 
 For more information or to apply you can contact:
 - David Worms: david@adaltas.com, [LinkedIn](https://www.linkedin.com/in/david-worms/)
-- Gauthier Leonard: gauthier@adaltas.com, [LinkedIn](https://www.linkedin.com/in/gauthier-leonard/)
 - Petra Kaferle: petra@adaltas.com, [LinkedIn](https://www.linkedin.com/in/petra-kaferle/) 
 
 TDP:
